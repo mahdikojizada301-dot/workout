@@ -11,7 +11,7 @@
         />
 
         <div>
-          <h1 class="text-2xl font-bold text-white tracking-wide">My Company</h1>
+          <h1 class="text-2xl font-bold text-white tracking-wide">AFGsports</h1>
           <p class="text-sm text-slate-300">Trusted Solutions Since 1998</p>
         </div>
       </div>
