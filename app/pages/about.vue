@@ -43,7 +43,7 @@
 
         <div>
           <img
-            src="c:\Users\DELL\Desktop\gym pic.jpg"
+            src="/my-gym.jpg"
             alt="Our Team"
             class="rounded-2xl shadow-lg w-full h-[400px] object-cover"
           />
