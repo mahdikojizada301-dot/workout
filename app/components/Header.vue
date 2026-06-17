@@ -3,8 +3,8 @@
     <div class="container mx-auto px-6 h-20 flex items-center justify-between">
       <div class="flex items-center gap-4">
         <img
-          src="/364-3644305_old-school-gym-logo.png"
-          alt="Gym Logo"
+          src="/home-picture.jpg"
+          alt="Sport Logo"
           width="400"
           height="600"
           class="w-16 h-16 object-contain rounded-full border-2 border-blue-500 bg-white p-1"

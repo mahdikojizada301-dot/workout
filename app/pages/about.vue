@@ -43,7 +43,7 @@
 
         <div>
           <img
-            src="/my-gym.jpg"
+            src="/about-picture.jpg"
             alt="Our Team"
             class="rounded-2xl shadow-lg w-full h-[400px] object-cover"
           />

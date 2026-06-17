@@ -4,7 +4,7 @@
       <div class="absolute inset-0 bg-[radial-gradient(circle_at_top,_rgba(37,99,235,0.18),_transparent_22%),radial-gradient(circle_at_bottom,_rgba(14,165,233,0.1),_transparent_18%)]"></div>
       <div
         class="absolute inset-0 bg-cover bg-center"
-        style="background-image: url('/NRG-Gym-Essendon-1.jpg');"
+        style="background-image: url('/home-picture.jpg');"
       ></div>
       <div class="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/85 to-slate-950/90"></div>
       <div class="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/25 to-transparent"></div>
@@ -41,9 +41,9 @@
           <div class="relative w-full max-w-md">
             <div class="absolute inset-0 rounded-3xl bg-cyan-500/15 blur-3xl"></div>
             <img
-              src="/364-3644305_old-school-gym-logo.png"
+              src="/home-picture-1.jpg"
               alt="Fitness hero illustration"
-              class="relative w-full rounded-3xl border border-cyan-400/20 bg-slate-900/70 shadow-2xl"
+              class="relative w-full rounded-3xl border border-cyan-400/20 bg-slate-900/70 shadow-2xl object-cover"
             />
           </div>
         </div>
@@ -67,7 +67,7 @@
         <div class="mt-10 grid gap-6 md:grid-cols-3">
           <div class="overflow-hidden rounded-2xl border border-cyan-400/10 bg-slate-900 shadow-2xl shadow-cyan-950/20">
             <img
-              src="/19dd5fe0-7aaa-47cb-90fd-26a364e29107.webp"
+              src="/home-picture-1.jpg"
               alt="Guided training"
               class="h-52 w-full object-cover"
             />
@@ -81,7 +81,7 @@
           </div>
           <div class="overflow-hidden rounded-2xl border border-cyan-400/10 bg-slate-900 shadow-2xl shadow-cyan-950/20">
             <img
-              src="/1.jpg"
+              src="/home-picture-2.jpg"
               alt="Recovery focus"
               class="h-52 w-full object-cover"
             />
@@ -95,7 +95,7 @@
           </div>
           <div class="overflow-hidden rounded-2xl border border-cyan-400/10 bg-slate-900 shadow-2xl shadow-cyan-950/20">
             <img
-              src="/download.jpg"
+              src="/home-picture-3.jpg"
               alt="Clear progress"
               class="h-52 w-full object-cover"
             />
