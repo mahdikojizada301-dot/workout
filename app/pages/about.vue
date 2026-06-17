@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-white py-20">
+  <section class="bg-black text-slate-100 py-20">
     <div class="container mx-auto px-6">
       
       <!-- Iconic Hero Section -->
@@ -15,26 +15,26 @@
           </div>
         </div>
 
-        <h1 class="text-5xl font-bold text-slate-900 mb-4">About AFGsports</h1>
-        <p class="text-xl text-slate-600 leading-relaxed mb-2">Train. Compete. Excel.</p>
-        <p class="text-lg text-slate-600 leading-relaxed">
-          AFGsports brings athletic performance, training programs, and community
-          together — built by people who love sport and technology.
+        <h1 class="text-5xl font-bold text-white mb-4">About Sport</h1>
+        <p class="text-xl text-slate-300 leading-relaxed mb-2">Train. Compete. Excel.</p>
+        <p class="text-lg text-slate-300 leading-relaxed">
+          Sport brings athletic performance, training programs, and community
+          together — built by people who love fitness, discipline, and progress.
         </p>
       </div>
 
       <!-- Company Story -->
       <div class="grid lg:grid-cols-2 gap-12 items-center mb-20">
         <div>
-          <h2 class="text-3xl font-bold text-slate-900 mb-6">
+          <h2 class="text-3xl font-bold text-white mb-6">
             Our Story
           </h2>
-          <p class="text-slate-600 mb-4 leading-relaxed">
+          <p class="text-slate-300 mb-4 leading-relaxed">
             Founded with a vision to make technology more accessible and
             impactful, our company has grown into a trusted partner for
             businesses seeking innovative solutions.
           </p>
-          <p class="text-slate-600 leading-relaxed">
+          <p class="text-slate-300 leading-relaxed">
             From small startups to established organizations, we work closely
             with our clients to understand their goals and transform ideas into
             reality through modern design and technology.
@@ -52,21 +52,21 @@
 
       <!-- Mission & Vision -->
       <div class="grid md:grid-cols-2 gap-8 mb-20">
-        <div class="bg-slate-50 p-8 rounded-2xl">
-          <h3 class="text-2xl font-bold text-slate-900 mb-4">
+        <div class="bg-slate-800 p-8 rounded-2xl border border-slate-700">
+          <h3 class="text-2xl font-bold text-white mb-4">
             Our Mission
           </h3>
-          <p class="text-slate-600">
+          <p class="text-slate-300">
             To empower businesses and individuals through innovative digital
             solutions, exceptional service, and long-term partnerships.
           </p>
         </div>
 
-        <div class="bg-slate-50 p-8 rounded-2xl">
-          <h3 class="text-2xl font-bold text-slate-900 mb-4">
+        <div class="bg-slate-800 p-8 rounded-2xl border border-slate-700">
+          <h3 class="text-2xl font-bold text-white mb-4">
             Our Vision
           </h3>
-          <p class="text-slate-600">
+          <p class="text-slate-300">
             To become a leading force in digital transformation by helping
             organizations unlock their full potential through technology.
           </p>
@@ -75,27 +75,27 @@
 
       <!-- Values -->
       <div class="mb-20">
-        <h2 class="text-3xl font-bold text-center text-slate-900 mb-12">
+        <h2 class="text-3xl font-bold text-center text-white mb-12">
           Our Core Values
         </h2>
 
         <div class="grid md:grid-cols-3 gap-8">
-          <div class="text-center p-6">
+          <div class="text-center p-6 bg-slate-900 rounded-3xl border border-slate-700">
             <div class="text-4xl mb-4">🏋️</div>
-            <h3 class="text-xl font-semibold mb-3">Performance</h3>
-            <p class="text-slate-600">We focus on measurable athletic progress and results.</p>
+            <h3 class="text-xl font-semibold mb-3 text-white">Performance</h3>
+            <p class="text-slate-300">We focus on measurable athletic progress and results.</p>
           </div>
 
-          <div class="text-center p-6">
+          <div class="text-center p-6 bg-slate-900 rounded-3xl border border-slate-700">
             <div class="text-4xl mb-4">🏆</div>
-            <h3 class="text-xl font-semibold mb-3">Commitment</h3>
-            <p class="text-slate-600">We support athletes and teams with consistency and care.</p>
+            <h3 class="text-xl font-semibold mb-3 text-white">Commitment</h3>
+            <p class="text-slate-300">We support athletes and teams with consistency and care.</p>
           </div>
 
-          <div class="text-center p-6">
+          <div class="text-center p-6 bg-slate-900 rounded-3xl border border-slate-700">
             <div class="text-4xl mb-4">⚡</div>
-            <h3 class="text-xl font-semibold mb-3">Excellence</h3>
-            <p class="text-slate-600">We deliver high-quality programs and exceptional experiences.</p>
+            <h3 class="text-xl font-semibold mb-3 text-white">Excellence</h3>
+            <p class="text-slate-300">We deliver high-quality programs and exceptional experiences.</p>
           </div>
         </div>
       </div>
@@ -127,10 +127,10 @@
 
       <!-- CTA -->
       <div class="text-center max-w-3xl mx-auto">
-        <h2 class="text-3xl font-bold text-slate-900 mb-4">
+        <h2 class="text-3xl font-bold text-white mb-4">
           Let's Build Something Amazing Together
         </h2>
-        <p class="text-slate-600 mb-8">
+        <p class="text-slate-300 mb-8">
           Whether you're looking to start a new project or improve an existing
           one, we're here to help you achieve your goals.
         </p>

@@ -11,8 +11,7 @@
         </span>
 
         <h1 class="text-5xl md:text-6xl font-bold text-white mb-6">
-          Let's Build Something
-          <span class="text-blue-500">Great Together</span>
+          Contact <span class="text-blue-500">Sport</span>
         </h1>
 
         <p class="text-slate-400 text-lg leading-relaxed">
